@@ -1,9 +1,7 @@
 ---
-title: "What Is Money"
+title: "What Is Money?"
 date: 2021-08-08T13:50:18+01:00
 ---
-
-# What is money
 
 What is money?
 
