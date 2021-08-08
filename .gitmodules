@@ -2,3 +2,6 @@
 	path = ecudemarc/public
 	url = git@github.com:EcuDeMarc/ecudemarc.github.io.git
 	branch = main
+[submodule "ecudemarc/themes/mini"]
+	path = ecudemarc/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git

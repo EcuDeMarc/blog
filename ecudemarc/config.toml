@@ -1,4 +1,4 @@
 baseURL = 'https://ecudemarc.github.io/'
 languageCode = 'en-us'
 title = 'Écu de Marc'
-theme='archie'
+theme='mini'
