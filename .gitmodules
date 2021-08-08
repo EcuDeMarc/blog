@@ -1,0 +1,4 @@
+[submodule "ecudemarc/public"]
+	path = ecudemarc/public
+	url = git@github.com:EcuDeMarc/ecudemarc.github.io.git
+	branch = main
