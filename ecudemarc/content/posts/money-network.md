@@ -60,9 +60,9 @@ We can then sum up all of the debits.
 35 + 100 + 50 + 0 = 185
 ```
 
-As we can see, in our example, the sum of credits is equal to the sum of debits. We can say then that credits and debit cancel out.
+As we can see, in our example, the sum of credits is equal to the sum of debits. We can say that this example money network respects the property where the sum of the credits and of the debits cancel out.
 
-## Aggregate vs detailed analysis
+## Aggregate vs. detailed analysis
 
 Altough the credits and debits have to cancel out in aggregate in any money network, we can see that this may not be true at an actor level.
 
@@ -75,9 +75,9 @@ Thus, from this one can conclude that an analysis at an aggregate level is not t
 The concept of equity is defined as follows:
 
 ```
-equity = assets - debits
+equity = credits - debits
 ```
-In short, equity stands for the value of assets in excess of debts. Equity is what the actor would end up having in credits after the extinction of all the debts.
+In short, equity stands for the value of credits in excess of the value of debits. Equity is what the actor would end up having in credits after the extinction of all the debits.
 
 By using the above definition, we can easily calculate the equity for each one of the actors in our example money network.
 
@@ -90,11 +90,16 @@ By using the above definition, we can easily calculate the equity for each one o
 
 One can see that two actors (A, D) have positive equity and that two actors (B, C) have negative equity.
 
-By the property, described above, that the sum of credits and debits have to cancel out, we can also say that the sum of the equity in any money network has to sum up to exactly zero. We can very this in this example money network.
+By the property, described above, that the sum of credits and debits have to cancel out, we can also say that the sum of the equity in any money network has to sum up to exactly zero. We can verify that this latter property is respected in the example money network we show in this post by performing the following calculation.
 
 ```
 65 - 50 - 25 + 10 = 0
 ```
+
+We can indeed conclude that the equity of the example money network shown in this post sums up to zero as expected.
+
 ## Conclusion
 
-We can see that no equity is created in any money network. What really matters is the distribution of the equity in the money network.
+From the above, we can see that no equity can ever be created in any money network at an aggregate level.
+
+Thus, what really matters is the distribution of the equity in the money network.
