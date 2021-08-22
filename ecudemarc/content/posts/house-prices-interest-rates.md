@@ -56,7 +56,7 @@ Would the fair value of the property change?
 
 The answer is yes, let us see why.
 
-Firtsly, we need to calculate the cost of equity which is:
+Firstly, we need to calculate the cost of equity which is:
 
 ```
 1% + 5% = 6%
@@ -95,5 +95,5 @@ Thus, with a cost of capital of 3%, the fair value of this property is 400,000.
 
 ## Conclusion
 
-We can see that by lowering interest rates from 8% to 1%, the price of our property has shot up from 120,000 to 400,000. For this price change to occurr you don't need to have an increase in the rental income.
+We can see that by lowering interest rates from 8% to 1%, the price of our property has shot up from 120,000 to 400,000. Therefore, we can safely conclude that the entire change in pricing can be explained by changes in interest rates since the annual rental income that this property can achieve hasn't changed.
 
