@@ -1,7 +1,6 @@
 ---
 title: "What is the motivation behind the introduction of the Central Bank Digital Currency (\"CBDC\")?"
 date: 2023-02-19T10:10:23Z
-draft: true
 ---
 
 Many central banks across the world are all pursuing the idea of introducing a retail payment system commonly named Central Bank Digital Currency ("CBDC"). In reality, this is not a currency but simply an alternative payment system that would sit alongside other existing payment systems:
