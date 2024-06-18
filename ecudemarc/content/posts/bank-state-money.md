@@ -129,3 +129,12 @@ The implied exchange rate of Bank's money for assets is 1 (the same as the one i
 Hence, we could argue that the Bank should set the level of interest for its own money to a level so as to guarantee that no Party makes an immediate profit or loss.
 
 Hence, we can state that the level of interest is determined by the exchange rate fixed by the State at every point in time when it pays its civil servants. If the amount of money the State pays its civil servants goes up rapidly, then the Bank's interest rate should go up. On the other hand, if the amount of money the State is paying its civil servants is going down, then the level of interest of Bank's money should go down.
+
+## Conclusions
+
+We can conclude that:
+
+1. The State fixes the exchange rate between the money of the Bank and the amount of resources/assets
+2. The Bank can control:
+	- the amount of interest to be paid out to holders of the Bank's money and
+	- the amount of debt Bank money issued at any one time
